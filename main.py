@@ -50,4 +50,4 @@ def wechat_post():
             
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
+    app.run(host='172.20.25.71', port=8080)
